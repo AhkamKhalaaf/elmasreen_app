@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1f27bb04-4a88-4f19-aa3e-67099cdb9ec7" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/google-services.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../assets/images/looding.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/core/models/HomeProductsCategoryModel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/core/models/IntroSliderrModel.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../lib/core/models/OrderUserModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/debug/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/kotlin/com/example/elmasreenapp/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/kotlin/com/hyper/elmasreen/MainActivity.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/profile/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/image1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/image2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/image3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/image4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/image5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/slid.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/slid1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/slid2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../assets/images/slid3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/Values.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/Values.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/dblocal/CartLDBModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/dblocal/CartLDBModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/dblocal/dbHelper.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/dblocal/dbHelper.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/models/AddressModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/models/AddressModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/models/ProductsCategoryModel.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/models/ProductsCategoryModel.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/providermodels/AccountProvider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/providermodels/AccountProvider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/providermodels/AddressProvider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/providermodels/AddressProvider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/providermodels/CartProvider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/providermodels/CartProvider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/core/providermodels/CategoryProvider.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/core/providermodels/CategoryProvider.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/main.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/AddAddressPageUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/AddAddressPageUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/AddressDetailsUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/AddressDetailsUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/CategoryMainUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/CategoryMainUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/DetailsOneItemProductUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/DetailsOneItemProductUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/IntroSliderUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/IntroSliderUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/LoadingUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/LoadingUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/SubCategoeryUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/SubCategoeryUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/bottomTabsPagesUI/DrawerSideMenuUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/bottomTabsPagesUI/DrawerSideMenuUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/bottomTabsPagesUI/MainPageUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/bottomTabsPagesUI/MainPageUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/componentui/FavoriteButtonUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/componentui/FavoriteButtonUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/componentui/MainTitleUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/componentui/MainTitleUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/layout/MainPartAddressLayout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/layout/MainPartAddressLayout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/layout/MainPartCartLayout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/layout/MainPartCartLayout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/layout/MainPartCategoryLayout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/layout/MainPartCategoryLayout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/layout/MainPartOfferLayout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/layout/MainPartOfferLayout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/layout/MainProductAndTitleLayout.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/layout/MainProductAndTitleLayout.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/LogOrdersSideMenuUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/sidemenupages/LogOrdersSideMenuUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/CurrentPageUi.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/DeliverdPageUi.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/LogItemWidget.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/LogItemWidget.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/MainPartLogUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/MainPartLogUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/sidemenupages/loghistorypages/OnWayPageUi.dart" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/stepspages/CustomAppBarFollowUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/stepspages/CustomAppBarFollowUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/widgets/FavoriteCartWidgetItem.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/widgets/FavoriteCartWidgetItem.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/widgets/OneItemCategoryUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/widgets/OneItemCategoryUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/widgets/OneItemProductUi.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/widgets/OneItemProductUi.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/widgets/OneItemSubCategoryUI.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/widgets/OneItemSubCategoryUI.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/ui/widgets/ProductProperities.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/ui/widgets/ProductProperities.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/ar.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/utils/ar.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../lib/utils/en.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../lib/utils/en.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../pubspec.yaml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/app">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="android" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="android" type="f1a62948:ProjectNode" />
+                <item name="app" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="android" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-57" />
+    <option name="y" value="10" />
+    <option name="width" value="454" />
+    <option name="height" value="731" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="not.eligible.for.single.variant.sync" value="true" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1f27bb04-4a88-4f19-aa3e-67099cdb9ec7" name="Default Changelist" comment="" />
+      <created>1617915370705</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617915370705</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" visible="true" weight="0.098335855" />
+      <window_info id="Structure" side_tool="true" />
+      <window_info id="Build Variants" side_tool="true" />
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="Resources Explorer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info id="Captures" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Run" weight="0.60229135" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="TODO" />
+      <window_info anchor="bottom" id="Debug" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.32242227" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="right" id="myBitbucket" weight="0.32980332" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Gradle" visible="true" weight="0.32980332" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Flutter Inspector" />
+      <window_info anchor="right" id="WIFI ADB ULTIMATE" />
+      <window_info anchor="right" id="Flutter Outline" />
+      <window_info anchor="right" id="Android WiFi ADB" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="DeX ADB Tool" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Performance" />
+      <window_info anchor="right" id="AdbCommander" side_tool="true" />
+    </layout>
+  </component>
+</project>
