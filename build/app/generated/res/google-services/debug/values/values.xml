@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">699567642269-ru0ffhk89hcapnnu1ig3d2cs701jesqk.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">699567642269</string>
+    <string name="google_api_key" translatable="false">AIzaSyBk9-RV4OEG8JZw4i8wvI-kfI_TLa-r4V0</string>
+    <string name="google_app_id" translatable="false">1:699567642269:android:7af15f919a1f6282cb2674</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBk9-RV4OEG8JZw4i8wvI-kfI_TLa-r4V0</string>
+    <string name="google_storage_bucket" translatable="false">elmasreenapp.appspot.com</string>
+    <string name="project_id" translatable="false">elmasreenapp</string>
+</resources>

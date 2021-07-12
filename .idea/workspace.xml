@@ -1,0 +1,994 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AndroidLogFilters">
+    <option name="TOOL_WINDOW_LOG_LEVEL" value="error" />
+    <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="be19e0fd-5223-4da4-a790-4661ffaa0a00" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/.dart_tool/" />
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <ignored path="$PROJECT_DIR$/.pub/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="Pixel_2_API_24" />
+  <component name="FavoritesManager">
+    <favorites_list name="elmasreen_app" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/HomePageUI.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1666">
+              <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+              <folding>
+                <element signature="e#0#71#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/OffersPageUi.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#65#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartOfferLayout.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="969">
+              <caret line="143" selection-start-line="143" selection-end-line="143" />
+              <folding>
+                <element signature="e#1794#6638#0" />
+                <element signature="e#7150#9696#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/MainPageUI.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+              <folding>
+                <element signature="e#1#74#0" expanded="true" />
+                <element signature="e#1691#1945#0" />
+                <element signature="e#1998#2964#0" />
+                <element signature="e#9019#10482#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/DrawerSideMenuUI.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1632">
+              <caret line="112" column="31" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/LogOrdersSideMenuUi.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="595">
+              <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+              <folding>
+                <element signature="e#0#60#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/PolicyTermsSideMenuUi.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/CategoryMainUi.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3077">
+              <caret line="198" column="49" selection-start-line="198" selection-start-column="49" selection-end-line="198" selection-end-column="49" />
+              <folding>
+                <element signature="e#8648#19010#0" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/loghistorypages/MainPartLogUi.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="85">
+              <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/core/providermodels/CategoryProvider.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="214" column="40" selection-start-line="214" selection-start-column="40" selection-end-line="214" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>update</find>
+      <find>token</find>
+      <find>user order</find>
+      <find>error regions</find>
+      <find>sas</find>
+      <find>response</find>
+      <find>home products</find>
+      <find>error add addresss</find>
+      <find>aaaaaaaaa</find>
+      <find>itemsAddressesUser</find>
+      <find>fggggggggggg</find>
+      <find>createAddressFunction</find>
+      <find>google</find>
+      <find>markers</find>
+      <find>xxxxxxxxxxxxx</find>
+      <find>googl</find>
+      <find>_onMapCreated</find>
+      <find>google_maps_flutter</find>
+      <find>getCountItems</find>
+      <find>items</find>
+      <find>quantity</find>
+      <find>itemsSearchMainCategoryProducts</find>
+      <find>cartProvider</find>
+      <find>getAllProducts</find>
+      <find>print</find>
+      <find>mainProduct</find>
+      <find>mainprodutcategory error</find>
+      <find>List</find>
+      <find>error home products</find>
+      <find>itemsMainCategoryProducts</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>5.0</replace>
+      <replace>grey.withOpacity(0.5)</replace>
+      <replace>formKeySignUp</replace>
+      <replace>OneItemProductUi</replace>
+      <replace>database</replace>
+      <replace>oneProductModel</replace>
+      <replace>items1</replace>
+      <replace>items</replace>
+      <replace>AssressUser</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="UPDATE_TYPE" value="MERGE" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/ui/SignUpUI.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/layout/MainPartFvoriteLayout.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/DrawerSideMenuUI.dart" />
+        <option value="$PROJECT_DIR$/lib/utils/ar.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/widgets/ShowAllDetailsProductFunctionWidget.dart" />
+        <option value="$PROJECT_DIR$/lib/core/dblocal/AttributeDbModelFake.dart" />
+        <option value="$PROJECT_DIR$/lib/core/dblocal/AttributeDbModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/dblocal/CartLDBModel.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/componentui/PlusMinusUi.dart" />
+        <option value="$PROJECT_DIR$/lib/core/dblocal/dbHelper.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/VerificationUi.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/IntroSliderrModel.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/IntroSliderUI.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/AboutAppModel.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/widgets/ProductProperities.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/HomeProductsCategoryModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/CategoriesModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/ProductsCategoryModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/OfferModel.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/layout/MainPartOfferLayout.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/DetailsOneItemProductUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/layout/MainPartCartLayout.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/widgets/OneItemCategoryUI.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/SubCategoriesModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/providermodels/AccountProvider.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/widgets/FavoriteCartWidgetItem.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/sidemenupages/LogOrdersSideMenuUi.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/RegionModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/AreaModel.dart" />
+        <option value="$PROJECT_DIR$/lib/core/models/AddressModel.dart" />
+        <option value="$PROJECT_DIR$/lib/Values.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/MainPageUI.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/ButtonCartUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/layout/MainPartAddressLayout.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/stepspages/ConfirmPageUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/stepspages/AddressPageStepPageUI.dart" />
+        <option value="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/lib/ui/AddressDetailsUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/AddAddressPageUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/HomePageUI.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/widgets/gotoCartButton.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/componentui/AddToCartButtonUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/FavoritePageUi.dart" />
+        <option value="$PROJECT_DIR$/lib/core/providermodels/CartProvider.dart" />
+        <option value="$PROJECT_DIR$/lib/core/providermodels/AddressProvider.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/CartPageUi.dart" />
+        <option value="$PROJECT_DIR$/pubspec.yaml" />
+        <option value="$PROJECT_DIR$/android/app/build.gradle" />
+        <option value="$PROJECT_DIR$/lib/ui/sidemenupages/PolicyTermsSideMenuUi.dart" />
+        <option value="$PROJECT_DIR$/lib/ui/CategoryMainUi.dart" />
+        <option value="$PROJECT_DIR$/lib/core/providermodels/CategoryProvider.dart" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-57" />
+    <option name="y" value="10" />
+    <option name="width" value="454" />
+    <option name="height" value="731" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="android" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="profile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="sidemenupages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="sidemenupages" type="462c0819:PsiDirectoryNode" />
+              <item name="loghistorypages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="stepspages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="elmasreen_app" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="widgets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="elmasreen_app" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="adb_path" value="C:\Users\ahkam\AppData\Local\Android\Sdk\platform-tools\adb.exe" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files/Git/bin/git.exe" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\apps\elmasreen_app\assets\icons" />
+      <recent name="E:\androidprojects\elmasreen_app\assets\images" />
+      <recent name="E:\androidprojects\elmasreen_app\android\app" />
+      <recent name="E:\androidprojects\elmasreen_app\lib\ui\widgets" />
+      <recent name="E:\androidprojects\elmasreen_app\lib\core\dblocal" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\androidprojects\elmasreen_app\android\app" />
+      <recent name="E:\androidprojects\elmasreen_app\android" />
+      <recent name="E:\androidprojects\elmasreen_app\lib\ui\componentui" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="be19e0fd-5223-4da4-a790-4661ffaa0a00" name="Default Changelist" comment="" />
+      <created>1614019262530</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614019262530</updated>
+    </task>
+    <task id="LOCAL-00001" summary="addd">
+      <created>1618783256314</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618783256314</updated>
+    </task>
+    <task id="LOCAL-00002" summary="last editting">
+      <created>1626114837144</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1626114837144</updated>
+    </task>
+    <task id="LOCAL-00003" summary="last editting">
+      <created>1626115005422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1626115005422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.2118003" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011389" side_tool="true" weight="0.20121029" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Captures" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Structure" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3289689" />
+      <window_info anchor="bottom" id="Run" order="1" sideWeight="0.4969743" weight="0.5057283" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.58101475" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030257" side_tool="true" weight="0.5220949" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.43207857" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.35188216" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5237316" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Flutter Performance" order="2" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Outline" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="WIFI ADB ULTIMATE" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Android WiFi ADB" order="7" weight="0.3290469" />
+      <window_info anchor="right" id="DeX ADB Tool" order="8" />
+      <window_info anchor="right" id="AdbCommander" order="9" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="myBitbucket" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49886104" visible="true" weight="0.2118003" />
+      <window_info id="Designer" order="1" />
+      <window_info id="Favorites" order="2" sideWeight="0.5011389" side_tool="true" weight="0.20121029" />
+      <window_info id="Build Variants" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Captures" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Structure" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Dart Analysis" order="0" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="1" sideWeight="0.4969743" visible="true" weight="0.5008183" />
+      <window_info anchor="bottom" id="Logcat" order="2" weight="0.58101475" />
+      <window_info anchor="bottom" id="Android Profiler" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="4" sideWeight="0.5030257" side_tool="true" weight="0.5220949" />
+      <window_info anchor="bottom" id="Version Control" order="5" />
+      <window_info anchor="bottom" id="Terminal" order="6" weight="0.47463176" />
+      <window_info active="true" anchor="bottom" id="Messages" order="7" visible="true" weight="0.35188216" />
+      <window_info anchor="bottom" id="TODO" order="8" />
+      <window_info anchor="bottom" id="Debug" order="9" weight="0.5237316" />
+      <window_info anchor="bottom" id="Find" order="10" weight="0.3289689" />
+      <window_info anchor="right" id="Palette&#9;" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Flutter Performance" order="2" side_tool="true" weight="0.32980332" />
+      <window_info anchor="right" id="Device File Explorer" order="3" side_tool="true" />
+      <window_info anchor="right" id="Flutter Outline" order="4" weight="0.32980332" />
+      <window_info anchor="right" id="Flutter Inspector" order="5" weight="0.32980332" />
+      <window_info anchor="right" id="WIFI ADB ULTIMATE" order="6" weight="0.32980332" />
+      <window_info anchor="right" id="Android WiFi ADB" order="7" weight="0.3290469" />
+      <window_info anchor="right" id="DeX ADB Tool" order="8" />
+      <window_info anchor="right" id="AdbCommander" order="9" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="10" />
+      <window_info anchor="right" id="myBitbucket" order="11" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="addd" />
+    <MESSAGE value="last editting" />
+    <option name="LAST_COMMIT_MESSAGE" value="last editting" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>cartLDBModel</expression-string>
+        <language-id>Dart</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/core/models/SubCategoriesModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="49" column="8" selection-start-line="49" selection-start-column="8" selection-end-line="49" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/NewPasswordUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/providermodels/AccountProvider.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="56" column="11" selection-start-line="56" selection-start-column="6" selection-end-line="56" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/models/RegionModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="89">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/models/AddressModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1071">
+          <caret line="63" column="8" selection-start-line="63" selection-start-column="8" selection-end-line="63" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/DetailsOneItemProductUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2363">
+          <caret line="183" column="26" selection-start-line="183" selection-start-column="26" selection-end-line="183" selection-end-column="26" />
+          <folding>
+            <element signature="e#1692#3524#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/models/AreaModel.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="663">
+          <caret line="39" column="8" selection-start-line="39" selection-start-column="8" selection-end-line="39" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/CategorySideMenuUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="46" selection-start-line="7" selection-start-column="46" selection-end-line="12" selection-end-column="47" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/ButtonCartUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/AboutSideMenu.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-807">
+          <folding>
+            <element signature="e#0#20#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/stepspages/ConfirmPageUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="883" column="48" selection-start-line="883" selection-start-column="48" selection-end-line="883" selection-end-column="48" />
+          <folding>
+            <element signature="e#0#46#0" expanded="true" />
+            <element signature="e#35834#39481#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/AddAddressPageUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6919">
+          <caret line="420" column="24" selection-start-line="420" selection-start-column="24" selection-end-line="420" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="67" selection-start-line="10" selection-start-column="67" selection-end-line="10" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/AddressDetailsUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4097">
+          <caret line="255" column="38" selection-start-line="255" selection-start-column="33" selection-end-line="255" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/stepspages/AddressPageStepPageUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="22" column="33" selection-start-line="22" selection-start-column="33" selection-end-line="22" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1">
+          <caret line="119" column="25" selection-start-line="119" selection-start-column="25" selection-end-line="119" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#47#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/CategoryPageUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="35" selection-start-line="19" selection-start-column="35" selection-end-line="19" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartCategoryLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="41" column="44" selection-start-line="41" selection-start-column="44" selection-end-line="41" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/SubCategoeryUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="25" column="21" selection-start-line="25" selection-start-column="21" selection-end-line="25" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/CommonAppBarUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="52" selection-start-line="7" selection-start-column="52" selection-end-line="15" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/EditProfileSideMenu.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#17#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/widgets/OneItemCategoryUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="21" column="77" selection-start-line="21" selection-start-column="77" selection-end-line="21" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/widgets/FavoriteCartWidgetItem.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-486">
+          <caret line="21" column="8" selection-start-line="21" selection-start-column="8" selection-end-line="21" selection-end-column="8" />
+          <folding>
+            <element signature="e#1991#2483#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainProductAndTitleLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="28" column="32" selection-start-line="28" selection-start-column="32" selection-end-line="28" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/widgets/OneItemProductUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="15" column="8" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
+          <folding>
+            <element signature="e#1462#2145#0" />
+            <element signature="e#2330#2462#0" />
+            <element signature="e#2742#3222#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/FavoriteSideMenuUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="55" selection-end-line="16" selection-end-column="55" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartFvoriteLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-287">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+          <folding>
+            <element signature="e#1748#4658#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/FavoritePageUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <folding>
+            <element signature="e#1#69#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/widgets/gotoCartButton.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="27" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/componentui/AddToCartButtonUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/providermodels/CartProvider.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="370" column="22" selection-start-line="370" selection-start-column="22" selection-end-line="370" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+            <element signature="e#3032#3060#0" />
+            <element signature="e#3062#3112#0" />
+            <element signature="e#3315#3421#0" />
+            <element signature="e#3523#4154#0" />
+            <element signature="e#4199#4377#0" />
+            <element signature="e#8304#9528#0" />
+            <element signature="e#9534#12229#0" />
+            <element signature="e#9682#10017#1" />
+            <element signature="e#10294#10629#1" />
+            <element signature="e#10908#11605#1" />
+            <element signature="e#11730#11809#0" />
+            <element signature="e#12089#12214#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="17" column="16" selection-start-line="17" selection-start-column="16" selection-end-line="17" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Values.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="33" column="27" selection-start-line="33" selection-start-column="21" selection-end-line="33" selection-end-column="27" />
+          <folding>
+            <element signature="e#1#72#0" expanded="true" />
+            <element signature="e#2036#4746#0" />
+            <element signature="e#4849#7055#0" />
+            <element signature="e#7057#7089#0" />
+            <element signature="e#18885#21544#0" />
+            <element signature="e#21651#29199#0" />
+            <element signature="e#29273#31530#0" />
+            <element signature="e#31572#31720#0" />
+            <element signature="e#31780#33870#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/providermodels/AddressProvider.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2431">
+          <caret line="153" column="26" selection-start-line="153" selection-start-column="26" selection-end-line="153" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/android/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="29" selection-start-line="20" selection-start-column="29" selection-end-line="20" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartAddressLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1360">
+          <caret line="89" column="51" selection-start-line="89" selection-start-column="51" selection-end-line="89" selection-end-column="51" />
+          <folding>
+            <element signature="e#4303#4423#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/CartSideMenuUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" column="22" selection-start-line="12" selection-start-column="22" selection-end-line="12" selection-end-column="22" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartCartLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="41" column="39" selection-start-line="41" selection-start-column="39" selection-end-line="41" selection-end-column="39" />
+          <folding>
+            <element signature="e#0#50#0" expanded="true" />
+            <element signature="e#1901#8033#0" />
+            <element signature="e#8067#8134#0" />
+            <element signature="e#8166#21386#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/CartPageUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#68#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/AddressSideMenuUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="13" column="29" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/HomePageUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1666">
+          <caret line="109" column="19" selection-start-line="109" selection-start-column="19" selection-end-line="109" selection-end-column="19" />
+          <folding>
+            <element signature="e#0#71#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/OffersPageUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="19" column="30" selection-start-line="19" selection-start-column="30" selection-end-line="19" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#65#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/layout/MainPartOfferLayout.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="969">
+          <caret line="143" selection-start-line="143" selection-end-line="143" />
+          <folding>
+            <element signature="e#1794#6638#0" />
+            <element signature="e#7150#9696#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/MainPageUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="22" column="8" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+          <folding>
+            <element signature="e#1#74#0" expanded="true" />
+            <element signature="e#1691#1945#0" />
+            <element signature="e#1998#2964#0" />
+            <element signature="e#9019#10482#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/bottomTabsPagesUI/DrawerSideMenuUI.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1632">
+          <caret line="112" column="31" selection-start-line="112" selection-start-column="31" selection-end-line="112" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/LogOrdersSideMenuUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="595">
+          <caret line="40" column="20" selection-start-line="40" selection-start-column="20" selection-end-line="40" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#60#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/PolicyTermsSideMenuUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="15" column="79" selection-start-line="15" selection-start-column="79" selection-end-line="15" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/CategoryMainUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3077">
+          <caret line="198" column="49" selection-start-line="198" selection-start-column="49" selection-end-line="198" selection-end-column="49" />
+          <folding>
+            <element signature="e#8648#19010#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/ui/sidemenupages/loghistorypages/MainPartLogUi.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/core/providermodels/CategoryProvider.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="214" column="40" selection-start-line="214" selection-start-column="40" selection-end-line="214" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

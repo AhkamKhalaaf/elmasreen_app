@@ -1,0 +1,4 @@
+#Sun Jul 11 23:48:05 EET 2021
+base.0=D\:\\elmasreen_app\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
